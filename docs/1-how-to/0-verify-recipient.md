@@ -11,7 +11,7 @@ Before you begin, make sure that:
 - Telegram is connected to your SafeSend profile
 - You have the recipient’s wallet address available
 
-If you have not completed setup, see the [Quickstart](docs/0-get-started/0-quickstart.md).
+If you have not completed setup, see the [Quickstart](../0-get-started/0-quickstart.md).
 
 ### Verify a Recipient Address
 
@@ -20,7 +20,7 @@ If you have not completed setup, see the [Quickstart](docs/0-get-started/0-quick
 3. Choose the token you intend to send.
 4. Paste the recipient wallet address into the **Recipient Address** field.
 5. Review the detected address details shown by SafeSend.
-![Detected Address](..//media/detected-address.png)
+![Detected Address](../media/detected-address.png)
 6. (Optional) Enter a test amount to validate the transfer path.
 7. Confirm the recipient details before continuing to approval.
 
@@ -57,6 +57,6 @@ You can now proceed to approve and execute the transfer.
 
 ### Related Guides
 
-- [Send Tokens Using SafeSend](1-send-tokens.md)
-- [Quickstart](docs/0-get-started/0-quickstart.md)
+- [Send Tokens Using SafeSend](./1-send-tokens.md)
+- [Quickstart](../0-get-started/0-quickstart.md)
 

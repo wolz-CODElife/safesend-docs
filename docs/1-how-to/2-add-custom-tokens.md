@@ -12,7 +12,7 @@ Before you begin, make sure that:
 
 To find a token contract address, use a blockchain explorer (like Etherscan for Ethereum, BscScan for BNB Chain, or Solscan for Solana) by searching the token's name or symbol. You can also find it on the project's official website, CoinGecko/CoinMarketCap, or their social media (Twitter, Discord), but always verify the network. The address is a unique identifier for the token's smart contract on the blockchain, which is needed to add it to your wallet or to send/receive the token.
 
-If you are new to SafeSend, start with the [Quickstart](docs/0-get-started/0-quickstart.md).
+If you are new to SafeSend, start with the [Quickstart](../0-get-started/0-quickstart.md).
 
 
 ### Add a Custom Token
@@ -57,5 +57,5 @@ Adding a custom token is useful when:
 
 ### Related Guides
 
-- [Send Tokens Using SafeSend](docs/1-how-to/1-send-tokens.md)
-- [How SafeSend Works](docs/0-get-started/1-how-safesend-works.md)
+- [Send Tokens Using SafeSend](./1-send-tokens.md)
+- [How SafeSend Works](../0-get-started/1-how-safesend-works.md)
