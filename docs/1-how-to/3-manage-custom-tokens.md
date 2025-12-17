@@ -10,7 +10,7 @@ Before you begin, make sure that:
 - You are connected to the correct blockchain network
 - At least one custom token has already been added
 
-If you have not added a custom token yet, see [Add Custom Token](docs/1-how-to/2-add-custom-tokens.md).
+If you have not added a custom token yet, see [Add Custom Token](./2-add-custom-tokens.md).
 
 ### Go to Token Management
 
@@ -54,6 +54,6 @@ Always verify token contract addresses before adding or removing tokens.
 
 ### Related Guides
 
-- [Add Custom Token](docs/1-how-to/2-add-custom-tokens.md)
-- [Send Tokens Using SafeSend](docs/1-how-to/1-send-tokens.md)
-- [How SafeSend Works](docs/0-get-started/1-how-safesend-works.md)
+- [Add Custom Token](./2-add-custom-tokens.md)
+- [Send Tokens Using SafeSend](./1-send-tokens.md)
+- [How SafeSend Works](../0-get-started/1-how-safesend-works.md)

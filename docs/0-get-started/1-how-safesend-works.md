@@ -109,5 +109,5 @@ SafeSend is particularly useful when:
 - Managing operational or treasury transfers
 - Reducing human error in repetitive transfers
 
-For step-by-step instructions to use SafeSend, see the [Quickstart](docs/0-get-started/0-quickstart.md) or the [Tutorials](docs/2-tutorials/0-first-safesend-transfer.md).
+For step-by-step instructions to use SafeSend, see the [Quickstart](./0-quickstart.md) or the [Tutorials](../2-tutorials/0-first-safesend-transfer.md).
 

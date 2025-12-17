@@ -2,7 +2,7 @@
 
 This guide explains how to send tokens using SafeSend after your wallet, Telegram, and recipient details are set up. Use this guide when you are ready to execute a transfer and want to ensure it completes successfully.
 
-For first-time setup or a full walkthrough, see the [Quickstart](docs/0-get-started/0-quickstart.md).
+For first-time setup or a full walkthrough, see the [Quickstart](../0-get-started/0-quickstart.md).
 
 
 Before you begin, confirm that:
@@ -12,7 +12,7 @@ Before you begin, confirm that:
 - The recipient address has been verified
 - You have sufficient token balance and network fees available
 
-If any of these steps are incomplete, review the [Verify a Recipient Address](docs/1-how-to/0-verify-recipient.md) guide.
+If any of these steps are incomplete, review the [Verify a Recipient Address](./0-verify-recipient.md) guide.
 
 ### Send Tokens
 
@@ -85,5 +85,5 @@ SafeSend records the transfer details for future reference and auditing.
 
 ### Related Guides
 
-- [Verify a Recipient Address](docs/1-how-to/0-verify-recipient.md)
-- [Quickstart](docs/0-get-started/0-quickstart.md)
+- [Verify a Recipient Address](./0-verify-recipient.md)
+- [Quickstart](../0-get-started/0-quickstart.md)

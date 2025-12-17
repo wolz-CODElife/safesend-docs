@@ -6,8 +6,8 @@ SafeSend is useful for anyone who sends tokens manually, including individual us
 
 This quickstart guide shows you how to use the SafeSend user interface to complete your first secure token transfer. You will connect a wallet, enter transfer details, confirm the transaction, and view the final on-chain result.
 
-If you want to understand the concepts behind SafeSend and why each verification step exists, see [How SafeSend Works](docs/0-get-started/1-how-safesend-works.md).  
-For a guided, step-by-step walkthrough with more context, see [Tutorial: First SafeSend Transfer](docs/2-tutorials/0-first-safesend-transfer.md).
+If you want to understand the concepts behind SafeSend and why each verification step exists, see [How SafeSend Works](./1-how-safesend-works.md).  
+For a guided, step-by-step walkthrough with more context, see [Tutorial: First SafeSend Transfer](../2-tutorials/0-first-safesend-transfer.md).
 
 
 ### Prerequisites
@@ -19,7 +19,7 @@ This guide assumes that:
 - You have access to Telegram, which is required for transfer confirmation
 - You are familiar with basic wallet interactions such as signing messages and approving transactions
 
-For a complete list of supported wallets and networks, see the [Reference](docs/3-reference).
+For a complete list of supported wallets and networks, see the [Reference](../3-reference).
 
 ---
 
@@ -99,9 +99,9 @@ You can review completed transfers in **Transaction History**.
 
 ### Next Steps
 
-- Learn more about SafeSend’s verification model: [How SafeSend Works](docs/0-get-started/1-how-safesend-works.md)
-- Perform common tasks: [How-to Guides](docs/1-how-to)
-- Complete a guided walkthrough: [Tutorial: First SafeSend Transfer](docs/2-tutorials/0-first-safesend-transfer.md)
+- Learn more about SafeSend’s verification model: [How SafeSend Works](./1-how-safesend-works.md)
+- Perform common tasks: [How-to Guides](../1-how-to)
+- Complete a guided walkthrough: [Tutorial: First SafeSend Transfer](../2-tutorials/0-first-safesend-transfer.md)
 
 
 ### Notes
