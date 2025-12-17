@@ -90,6 +90,7 @@ While SafeSend adds verification layers, users remain responsible for:
 
 SafeSend does not protect against compromised wallets or accounts.
 
-### Summary
+### Related Reference Pages
 
-SafeSend enhances transfer safety through scoped approvals, external confirmation, and explicit verification steps. These measures reduce common transfer errors but do not eliminate all risks associated with blockchain transactions. Users should understand and follow best practices when using SafeSend.
+- [Limitations](./0-limitations.md)
+- [Features](./1-features.md)

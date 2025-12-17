@@ -112,6 +112,9 @@ Available options include:
 
 Profile settings affect how confirmations and notifications are handled.
 
-### Summary
 
-SafeSend combines wallet verification, scoped approvals, and external confirmation to reduce the risk of irreversible transfer mistakes. Each feature contributes to a controlled and reviewable transfer process.
+### Related Reference Pages
+
+
+- [Limitations](./0-limitations.md)
+- [Security Considerations](./2-security.md)
