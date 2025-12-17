@@ -33,5 +33,6 @@ For additional constraints, see [Limitations](./0-limitations.md).
 
 ### Related Reference Pages
 
+- [Supported Tokens](./3-supported-tokens.md)
 - [Features](./1-features.md)
 - [Security Considerations](./2-security.md)

@@ -82,6 +82,8 @@ Certain features may be unavailable due to:
 
 SafeSend does not guarantee uninterrupted availability of all features at all times.
 
-### Summary
 
-SafeSend provides additional verification and confirmation layers but operates within the constraints of blockchain networks and external services. Users should understand these limitations before relying on SafeSend for critical transfers.
+### Related Reference Pages
+
+- [Features](./1-features.md)
+- [Security Considerations](./2-security.md)

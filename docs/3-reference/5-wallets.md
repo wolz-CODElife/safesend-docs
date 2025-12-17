@@ -46,3 +46,4 @@ For additional constraints, see [Limitations](./0-limitations.md).
 - [Supported Networks](./3-supported-networks.md)
 - [Supported Tokens](./4-supported-tokens.md)
 - [Features](./1-features.md)
+- [Security Considerations](./2-security.md)
