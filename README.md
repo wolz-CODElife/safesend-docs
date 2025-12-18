@@ -46,14 +46,47 @@ Detailed, factual information about SafeSend’s capabilities, constraints, and 
 - [Supported Tokens](./docs/3-reference/4-supported-tokens.md)  
 - [Supported Wallets](./docs/3-reference/5-wallets.md)
 
+## Contribution
 
-## Documentation Structure
+SafeSend is actively evolving, and contributions are welcome.
 
-This documentation is organized by intent:
+Are you interested in improving documentation, reporting issues, or contributing to the product itself? There are several ways to get involved with the NodeOps community.
 
-- **Get Started** introduces concepts and first-time usage
-- **How-to Guides** provide task-focused instructions
-- **Tutorials** walk through complete workflows
-- **Reference** documents features, constraints, and supported systems
+### Community Channels
 
-Each section is designed to be read independently, depending on what you are trying to accomplish.
+Join the NodeOps community to stay up to date and participate in discussions:
+
+- [**Telegram**](https://t.me/nodeopsxyz)
+- [**X (Twitter)**](https://x.com/NodeOpsHQ)
+- [**GitHub**](https://github.com/NodeOps-app)
+- [**Discord**](https://discord.com/invite/fEmaMbkUxF)
+
+
+### Contributing to This Repository
+
+If you would like to contribute to the SafeSend documentation:
+
+1. Fork this repository
+2. Create a new branch for your changes
+3. Make updates following the existing documentation structure and tone
+4. Submit a pull request with a clear description of your changes
+
+Contributions should aim to improve clarity, accuracy, or completeness while keeping content focused on user intent.
+
+
+### Feedback and Issues
+
+If you encounter unclear documentation, missing information, or potential improvements:
+
+- Open an issue in the repository, or
+- Share feedback through one of the community channels above
+
+
+### Scope of Contributions
+
+This repository focuses on documentation.  
+For product feature requests or technical issues related to SafeSend itself, please use the appropriate NodeOps community channels or repositories.
+
+---
+
+Thank you for helping improve SafeSend. ✨
