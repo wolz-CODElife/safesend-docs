@@ -23,12 +23,14 @@ If any of these steps are incomplete, review the [Verify a Recipient Address](./
 5. (Optional) Enter a test amount.
 6. Enter the recipient wallet address.
 7. (Optional) To send to multiple recipients, click **Add Recipient** and repeat steps 4 to 6 for each additional recipient.
-![Add recipient button](../media/add-recipient.png)
-8. Review the transfer summary displayed by SafeSend.
+
+<img alt="Add recipient button" src="../media/add-recipient.png" height="500px" />
+
+9. Review the transfer summary displayed by SafeSend.
 
    > SafeSend calculates the total amount across recipients and handles the distribution as part of the transfer flow.
 
-9. Click **Send to [number] Recipient(s)**.
+10. Click **Send to [number] Recipient(s)**.
 
 At this stage, SafeSend prepares the transaction but does not execute it on-chain.
 
