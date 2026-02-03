@@ -20,9 +20,11 @@ If you have not completed setup, see the [Quickstart](../0-get-started/0-quickst
 3. Choose the token you intend to send.
 4. Paste the recipient wallet address into the **Recipient Address** field.
 5. Review the detected address details shown by SafeSend.
-![Detected Address](../media/detected-address.png)
-6. (Optional) Enter a test amount to validate the transfer path.
-7. Confirm the recipient details before continuing to approval.
+
+<img alt="Detected Address" src="../media/detected-address.png" height="500px" />
+
+7. (Optional) Enter a test amount to validate the transfer path.
+8. Confirm the recipient details before continuing to approval.
 
 SafeSend uses this information to prepare the transfer and present the details for confirmation.
 
