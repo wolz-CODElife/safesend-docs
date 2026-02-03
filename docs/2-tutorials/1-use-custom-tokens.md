@@ -48,6 +48,7 @@ Always confirm token contract addresses from a trusted block explorer before add
    - Decimals
    - Network
 6. Click "Add Token".
+7. 
    <img alt="Token Details" src="../media/token-details.png" height="500px" />
 
 Once added, Polygon (POL) appears in the token selection list.
@@ -57,7 +58,9 @@ Once added, Polygon (POL) appears in the token selection list.
 1. Confirm that the selected network matches the token’s network.
 2. Open the token selection dropdown.
 3. Select the token from the dropdown, in this case **Polygon (POL)**.
+   
    <img alt="Token Dropdown" src="../media/token-dropdown.png" height="500px" />
+   
 5. Enter the transfer amount.
 6. (Optional) Enter a test amount.
 7. Enter the recipient wallet address.
