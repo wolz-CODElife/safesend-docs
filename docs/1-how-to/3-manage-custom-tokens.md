@@ -16,7 +16,9 @@ If you have not added a custom token yet, see [Add Custom Token](./2-add-custom-
 
 1. Open the **Safe Send** page in the SafeSend dashboard.
 2. Click **Manage Tokens** below the token selection area.
-![Manage Tokens Button](../media/manage-tokens-button.png)
+
+<img alt="Manage Tokens Button" src="../media/manage-tokens-button.png" height="500px" />
+
 
 The **Token Management** panel opens and displays all custom tokens currently available.
 
