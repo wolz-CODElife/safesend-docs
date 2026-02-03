@@ -48,7 +48,7 @@ Always confirm token contract addresses from a trusted block explorer before add
    - Decimals
    - Network
 6. Click "Add Token".
-    ![Token Details](../media/token-details.png)
+   <img alt="Token Details" src="../media/token-details.png" height="500px" />
 
 Once added, Polygon (POL) appears in the token selection list.
 
@@ -57,14 +57,14 @@ Once added, Polygon (POL) appears in the token selection list.
 1. Confirm that the selected network matches the token’s network.
 2. Open the token selection dropdown.
 3. Select the token from the dropdown, in this case **Polygon (POL)**.
-    ![Token Dropdown](../media/token-dropdown.png)
-4. Enter the transfer amount.
-5. (Optional) Enter a test amount.
-6. Enter the recipient wallet address.
-7. Review the transfer summary.
-8. Click **Send to 1 Recipient**.
-9. Approve the transfer amount in your wallet.
-10. Confirm the transaction via Telegram.
+   <img alt="Token Dropdown" src="../media/token-dropdown.png" height="500px" />
+5. Enter the transfer amount.
+6. (Optional) Enter a test amount.
+7. Enter the recipient wallet address.
+8. Review the transfer summary.
+9. Click **Send to 1 Recipient**.
+10. Approve the transfer amount in your wallet.
+11. Confirm the transaction via Telegram.
 
 SafeSend submits the transaction on-chain after confirmation.
 
